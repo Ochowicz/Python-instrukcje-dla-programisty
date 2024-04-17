@@ -1,0 +1,4 @@
+W pythonie można wykonywać działania matematyczne.
+W pythonie można tworzyć obiekty posiadające różne cechy.
+W pythonie można pracować z tekstem.
+W pythonie można zarabiać pieniądze?
